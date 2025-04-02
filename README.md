@@ -9,7 +9,7 @@ I'm full time frontend developer with nearly 5 years of experience with building
 {
   "firstName": "Jiří",
   "lastName": "Růžička",
-  "age": 26
+  "age": 27
 }
 ``` 
 #### LANGUAGES AND TOOLS
